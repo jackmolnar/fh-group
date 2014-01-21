@@ -7,6 +7,10 @@ lead_detail.php - this manages the details of each lead, which school and admiss
 
 dashboard.php - this is the main page of the application where users can view unopened leads they have been assigned, view the leads they are currently working, and reminders for leads.
 
+The other files located in the repo are the files that support these two pages, i.e. the files that process the Ajax requests, function files, etc.
+
+
+
 
 
 Lead application - Jonathan Molnar
